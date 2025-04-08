@@ -3,15 +3,15 @@
 This project focuses on analyzing employee data within a company using SQL. The database was set up locally and analyzed using **DBeaver** and **MySQL Workbench.**
 
 **Key Tasks**
-- Data Joins: Joined tables such as employees, salaries, titles, dept_emp, and departments to retrieve relevant employee information.
-- Employee Insights: Analyzed salary distribution, job titles, department transfers, and ranked employees based on their salary within departments.
-- Salary History: Compared current salaries with past data to find changes over time.
-- Ranking: Used window functions (ROW_NUMBER(), RANK(), NTILE()) for ranking employees based on salary, and determined the top earners in specific departments.
-- Manager Analysis: Extracted current salary and position information for department managers.
+- **Data Joins:** Joined tables such as employees, salaries, titles, dept_emp, and departments to retrieve relevant employee information.
+- **Employee Insights:** Analyzed salary distribution, job titles, department transfers, and ranked employees based on their salary within departments.
+- **Salary History:** Compared current salaries with past data to find changes over time.
+- **Ranking:** Used window functions **(ROW_NUMBER(), RANK(), NTILE())** for ranking employees based on salary, and determined the top earners in specific departments.
+- **Manager Analysis:** Extracted current salary and position information for department managers.
   
 **Technologies Used**
-- SQL: For querying and analyzing data.
-- DBeaver & MySQL Workbench: Tools used for managing and querying the database.
+- **SQL:** For querying and analyzing data.
+- **DBeaver & MySQL Workbench:** Tools used for managing and querying the database.
 
 **Objective**
 
